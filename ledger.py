@@ -10,4 +10,8 @@ block_chain = {
 
         "vincent: 7.89 (1.01) jake 10.09 (1.01) chess betting app 1.0 each":
             "$argon2id$v=19$m=65536,t=3,p=4$rbU2xth7z3mv1RpjjHGOsQ$nsLVY2LLP7OWu4PqKSp7OU5l5eipIkm6VKNFphT3fZw",
+
+        "vincent: 8.39 (1.01) jake 9.59 (1.01) jake owns https://raw.githubusercontent.com/vincentburns42/magic_beans/main/nft/pawns.jpg":
+            "$argon2id$v=19$m=65536,t=3,p=4$l5KSEsLY+x8DwBhDSMn5Pw$bGUDM9QDhYTchiG/9dmUj4YsnJiypP3JQeGYYegP/vU"
+
 }
