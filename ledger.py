@@ -7,4 +7,7 @@ block_chain = {
             "$argon2id$v=19$m=65536,t=3,p=4$TmlNqfWe0/ofA2BMCcGYMw$075ONy+FSin179Z/mrTaN164Dyz9ltjoj/IGMKgbQZA",
         "vincent: 8.89 (0.01) jake 11.09 (0.01) chess game in progress":
             "$argon2id$v=19$m=65536,t=3,p=4$TmlNqfWe0/ofA2BMCcGYMw$075ONy+FSin179Z/mrTaN164Dyz9ltjoj/IGMKgbQZA",
+
+        "vincent: 7.89 (1.01) jake 10.09 (1.01) chess betting app 1.0 each":
+            "$argon2id$v=19$m=65536,t=3,p=4$rbU2xth7z3mv1RpjjHGOsQ$nsLVY2LLP7OWu4PqKSp7OU5l5eipIkm6VKNFphT3fZw",
 }
