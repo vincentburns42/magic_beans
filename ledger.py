@@ -17,4 +17,7 @@ block_chain = {
         "vincent: 8.39 (1.00) jake 9.61 (1.00) jake won a game 0.01":
         "$argon2id$v=19$m=65536,t=3,p=4$SCmF0JoT4tw7Z0zJOacU4g$vBccsb+Rwr5+mTkLv/DWwVvJl6DaJtPkYXaQOL79Z+U",
 
+        "vincent: 8.38 (1.01) jake 9.60 (1.01) vincent jake new game 23 march, 0.01":
+        "$argon2id$v=19$m=65536,t=3,p=4$FCKEkDIGwFirNUYIQSjl/A$AGxm/dIggDPebKXFe8hc4musx4ILAxCVZbhtjQHoJBY",
+
 }
